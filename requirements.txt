@@ -1,4 +1,4 @@
 Flask==1.0.2
-requests>=2.16.0,<2.17.0
+requests==2.20
 beautifulsoup4>=4.7.1,<4.8.0
 Unidecode>=1.0.23,<1.1.0
